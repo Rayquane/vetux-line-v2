@@ -20,8 +20,9 @@ class AccueilController
 
     
     return new Response( 
-      '<html><body> <a href="/lucky/number">LuckyController</a>
-      <html><body> <a href="/old">V1VetuxLine</a> 
+      '<html><body> <a href="/lucky/number">test</a>
+      <html><body> <a href="/fusion">Commencer la fusion</a> 
+      
       
       
       </body></html>'
