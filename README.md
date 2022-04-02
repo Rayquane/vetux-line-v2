@@ -10,7 +10,8 @@
 
 ## Page de l'accueil
 
-```<?php
+```php
+<?php
 
 // src/Controller/AccueilController.php  
 
@@ -46,7 +47,7 @@ class AccueilController
 
 ## Le controller Fusion
 
-```
+```php
 <?php
 
 // src/Controller/FusionController.php  
