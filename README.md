@@ -86,7 +86,7 @@ if (!($fp = fopen('/home/evan/Bureau/angular/Vetux-Line/fusion/german-data.csv',
     die('échec ouverture de FICHIER2.csv en lecture');
 }
 while ($line = fgetcsv($fp)) {
-    $lines[$line[30]] = $line; //je ne sais pas pourquoi ça marche mais ça marche !!!
+    $lines[$line[30]] = $line;
 }
 fclose($fp);
  
